@@ -1,2 +1,3 @@
 # undernet-nixos
-NixOS config of Undernet Porto Alegre
+
+Configuração da infraestrutura da Undernet Porto Alegre!

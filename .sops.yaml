@@ -1,0 +1,7 @@
+keys:
+  - &arcstur age1vstzfdv9wyr20rwhr9lcvh5z4s6x4yyshsz8c0wdq2kls867dekq4g8qnh
+creation_rules:
+  - path_regex: secrets.yaml$
+    key_groups:
+      - age:
+          - *arcstur
