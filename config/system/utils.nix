@@ -13,5 +13,7 @@
 
     vim
     helix
+
+    git
   ];
 }
