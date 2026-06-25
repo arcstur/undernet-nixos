@@ -12,5 +12,7 @@
     ./system/shell.nix
     ./system/utils.nix
     ./system/gpu.nix
+    ./tools/database.nix
+    ./tools/cloudflared.nix
   ];
 }
