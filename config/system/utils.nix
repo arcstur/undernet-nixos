@@ -5,15 +5,17 @@
     fzf
     jq
     bat
-    btop
-    bottom
     sd
-    bind
     dua
+    bind
 
     vim
     helix
 
     git
+
+    fastfetch
+    btop
+    bottom
   ];
 }
