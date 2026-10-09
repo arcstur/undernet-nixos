@@ -14,5 +14,6 @@
     ./system/gpu.nix
     ./tools/database.nix
     ./tools/cloudflared.nix
+    ./tools/notify.nix
   ];
 }
