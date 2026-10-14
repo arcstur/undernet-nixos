@@ -1,7 +1,7 @@
 {
   "nodes": {
     "nixpkgs": {
-      "locked": {
+      "lock": {
         "lastModified": 1791456040,
         "narHash": "sha256-gRZ/s8WQJ2CsXdhcDVQH34qxuL0MuMCOs3aBiK1Prsw=",
         "rev": "e7439b6b14ad3cc35d05608ebca9bce01a25f5f8",
@@ -26,7 +26,7 @@
           "nixpkgs"
         ]
       },
-      "locked": {
+      "lock": {
         "lastModified": 1791103873,
         "narHash": "sha256-nFxM+pKoZ8LJAEnUXARyCaOAloWgaW9kZQOSjWzKcTE=",
         "owner": "Mic92",
